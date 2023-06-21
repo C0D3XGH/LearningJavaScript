@@ -1,1 +1,1 @@
-console.log("Hello World!")
+document.getElementById("demo").innerHTML = "My Frist JavaScript";
